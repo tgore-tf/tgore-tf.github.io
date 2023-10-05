@@ -13,14 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Coming soon: Something intelligible!
 
-```{r cars}
-summary(cars)
-```
+## Intro
 
-## Including Plots
-
-Standard example plot below.
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+I manage, clean, and analyze messy data. I'm like a racoon, digging through the garbage for the good stuff.
